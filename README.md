@@ -2,6 +2,8 @@
 
 Calcly is a mobile application designed to help users learn and practice calculus interactively. Built using Flutter and Dart, the app provides an intuitive and engaging user experience for students and enthusiasts to explore calculus concepts. Future updates aim to integrate AI for personalized calculus tutoring. This application is intended to integrate an AI that is trained on Iowa State University's Calculus exams to help new engineers succeed in some of the most difficult courses at ISU.
 
+A responsive mobile web application that can simplify your Calculus journey and make it from point A(Begginer) to point B(Expert) in O(1) time!
+
 ## Features
 
 - **Interactive User Interface**: Modern and user-friendly design for seamless interaction.
