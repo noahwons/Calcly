@@ -1,16 +1,74 @@
-# calcly
+# Calcly: A Mobile Calculus Tutor
 
-A new Flutter project.
+Calcly is a mobile application designed to help users learn and practice calculus interactively. Built using Flutter and Dart, the app provides an intuitive and engaging user experience for students and enthusiasts to explore calculus concepts. Future updates aim to integrate AI for personalized calculus tutoring.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Interactive User Interface**: Modern and user-friendly design for seamless interaction.
+- **Practice Problems**: Solve a variety of calculus problems across topics such as derivatives, integrals, and limits.
+- **Step-by-Step Guidance**: Understand problem-solving methods with detailed steps (coming soon).
+- **AI Integration**: Future updates will include an AI calculus tutor for personalized assistance and learning paths.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Frontend**: Flutter (Dart)
+- **Backend**: Python (planned for future implementation)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/calcly.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd calcly
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Roadmap
+
+- [x] Develop initial app UI
+- [x] Implement core features for practice problems
+- [ ] Integrate backend with Python
+- [ ] Add AI-powered calculus tutor
+- [ ] Expand practice problem database
+- [ ] Release on app stores (iOS and Android)
+
+## Contributing
+
+We welcome contributions to Calcly! Please follow these steps:
+
+1. Fork the repository.
+2. Create a feature branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m "Add feature-name"
+   ```
+4. Push the branch:
+   ```bash
+   git push origin feature-name
+   ```
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions, feedback, or suggestions, please reach out to us at your.email@example.com.
+
+---
+
+*Calcly: Making Calculus Simple and Accessible!*
