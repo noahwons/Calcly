@@ -63,13 +63,9 @@ We welcome contributions to Calcly! Please follow these steps:
    ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For questions, feedback, or suggestions, please reach out to us at your.email@example.com.
+For questions, feedback, or suggestions, please reach out to me at noahwons@gmail.com
 
 ---
 
