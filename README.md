@@ -37,7 +37,7 @@ Calcly is a mobile application designed to help users learn and practice calculu
 
 - [x] Develop initial app UI
 - [x] Implement core features for practice problems
-- [ ] Integrate backend with Python
+- [X] Integrate backend with Python
 - [ ] Add AI-powered calculus tutor
 - [ ] Expand practice problem database
 - [ ] Release on app stores (iOS and Android)
